@@ -1,4 +1,4 @@
-##SIGNODE## 
+#SIGNODE#
 
 ##LIDERES EN EL MUNDO EN SISTEMAS DE EMBALAJE.
 
@@ -8,17 +8,26 @@ través de pedido directo de importación o local. Signode líder mundial en sis
 embalaje, a través de AGINSA PERU S.A.C. viene atendiendo los requerimientos de embalaje
 en la industria peruana hace más de treinta años y con productos de alta calidad reconocida
 internacionalmente.
+
+```markdown
 Productos de embalaje: Zuncho metálico, zuncho polipropileno y poliéster, grapas stretch film.
 Máquinas y Herramientas: Neumáticas, eléctricas, manuales, de combinación, de empuje, para
 superficies planas y/o circulares.
 Sistemas Automaticos: Paletizadoras en general, Envolvedoras de Strech film, etc.
 Accesorios: Dispensadores de Zuncho metálico y plástico.
 Servicio Técnico.
+```
 
+
+```markdown
 AGINSA PERU S.A.C.
 Dirección: Av. Del Parque Norte 685-202 San Isidro.
 Teléfono: 224-4457
 Email: aginsa.signode@gmail.com
+```
+
+
+
 
 ### Markdown
 
@@ -44,10 +53,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aginsa/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
