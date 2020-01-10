@@ -1,8 +1,24 @@
-## Welcome to GitHub Pages
+##SIGNODE## 
 
-You can use the [editor on GitHub](https://github.com/aginsa/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##LIDERES EN EL MUNDO EN SISTEMAS DE EMBALAJE.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Distribuidor: AGINSA PERU S.A.C.
+Tenemos toda la línea para embalaje manual ó industrial a su disposición para su atención a
+través de pedido directo de importación o local. Signode líder mundial en sistemas de
+embalaje, a través de AGINSA PERU S.A.C. viene atendiendo los requerimientos de embalaje
+en la industria peruana hace más de treinta años y con productos de alta calidad reconocida
+internacionalmente.
+Productos de embalaje: Zuncho metálico, zuncho polipropileno y poliéster, grapas stretch film.
+Máquinas y Herramientas: Neumáticas, eléctricas, manuales, de combinación, de empuje, para
+superficies planas y/o circulares.
+Sistemas Automaticos: Paletizadoras en general, Envolvedoras de Strech film, etc.
+Accesorios: Dispensadores de Zuncho metálico y plástico.
+Servicio Técnico.
+
+AGINSA PERU S.A.C.
+Dirección: Av. Del Parque Norte 685-202 San Isidro.
+Teléfono: 224-4457
+Email: aginsa.signode@gmail.com
 
 ### Markdown
 
