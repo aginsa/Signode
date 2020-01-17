@@ -10,12 +10,23 @@ embalaje, a través de AGINSA PERU S.A.C. viene atendiendo los requerimientos de
 en la industria peruana hace más de treinta años y con productos de alta calidad reconocida
 internacionalmente.
 
-Productos de embalaje: Zuncho metálico, zuncho polipropileno y poliéster, grapas stretch film.
-Máquinas y Herramientas: Neumáticas, eléctricas, manuales, de combinación, de empuje, para
-superficies planas y/o circulares.
-Sistemas Automaticos: Paletizadoras en general, Envolvedoras de Strech film, etc.
-Accesorios: Dispensadores de Zuncho metálico y plástico.
-Servicio Técnico.
+### Productos de embalaje: 
+- Zuncho metálico 
+- Zuncho polipropileno y poliéster
+- Grapas 
+- Stretch film.
+
+### Máquinas y Herramientas 
+para superficies planas y/o circulares:
+- Neumáticas 
+- Eléctricas, 
+- Manuales,
+- De combinación, 
+- De empuje,
+
+### Sistemas Automaticos: Paletizadoras en general, Envolvedoras de Strech film, etc.
+- Accesorios: Dispensadores de Zuncho metálico y plástico.
+- Servicio Técnico.
 
 
 
