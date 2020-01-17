@@ -17,7 +17,7 @@ internacionalmente.
 - Stretch film.
 
 ### Máquinas y Herramientas 
-para superficies planas y/o circulares:
+**Para superficies planas y/o circulares:**
 - Neumáticas 
 - Eléctricas, 
 - Manuales,
@@ -37,12 +37,5 @@ Dirección: Av. Del Parque Norte 685-202 San Isidro.
 Teléfono: 224-4457
 Email: aginsa.signode@gmail.com
 ```
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
